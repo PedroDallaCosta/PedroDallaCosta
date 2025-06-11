@@ -132,6 +132,6 @@ I am Pedro Dalla Costa, 20 years old, from Rio Grande do Sul, Brazil, fluent in 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroDallaCosta&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDallaCosta&hide_progress=true&theme=radical" 
   />
 </p>
