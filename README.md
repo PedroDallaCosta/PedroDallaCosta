@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou Pedro Dalla Costa, 20 anos, do Rio Grande do Sul, formado pelo Colégio São José; programo desde os 15 anos, comecei com códigos para Minecraft e evoluí para o desenvolvimento de soluções voltadas ao usuário em servidores de GTA RP; sou apaixonado por aprender novas tecnologias, com foco especial em JavaScript, tenho um interesse maior pela área de front-end, mas também tenho experiência e conhecimento em back-end, além de curiosidade por linguagens de baixo nível.
+I am Pedro Dalla Costa, 20 years old, from Rio Grande do Sul, Brazil, fluent in English, Portuguese, and Italian. I graduated from Colégio São José. I have been programming since I was 15, starting with coding for Minecraft and evolving into developing user-focused solutions for GTA RP servers. I am passionate about learning new technologies, with a special focus on JavaScript. I have a greater interest in front-end development but also have experience and knowledge in back-end, along with a curiosity for low-level programming languages.
 
 <p align="left">
     <a href="https://github.com/PedroDallaCosta?tab=repositories&sort=stargazers">
