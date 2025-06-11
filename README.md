@@ -113,14 +113,6 @@ Sou Pedro Dalla Costa, 20 anos, do Rio Grande do Sul, formado pelo Colégio São
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Lua" 
-    title="lua"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
-/>
 <br/>
 <br/>
 
