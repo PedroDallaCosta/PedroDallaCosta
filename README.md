@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Pedro
+# 👨🏻‍💻​ Pedro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 I am Pedro Dalla Costa, 20 years old, from Rio Grande do Sul, Brazil, fluent in English, Portuguese, and Italian. I graduated from Colégio São José. I have been programming since I was 15, starting with coding for Minecraft and evolving into developing user-focused solutions for GTA RP servers. I am passionate about learning new technologies, with a special focus on JavaScript. I have a greater interest in front-end development but also have experience and knowledge in back-end, along with a curiosity for low-level programming languages.
 
